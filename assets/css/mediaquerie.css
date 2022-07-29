@@ -1,0 +1,303 @@
+@media only screen and (max-width: 1074px) {
+    .acao{
+        width: 300px !important;
+        margin-left: 00px !important;
+    }
+    .acao h1 {
+        font-size: 2rem !important;
+    }
+
+    .hero img {
+        width: 350px !important;
+        margin-left: 300px ;
+    }
+
+    .conforto h1 {
+        font-size: 2.3rem !important;
+    }
+
+
+
+
+    .dados h1 {
+        font-size: 2.3rem !important;
+    }
+
+    .dados img {
+        width: 80%;
+    }
+
+    .car {
+        width: 50% !important;
+
+
+    }
+
+    .card {
+        width: 27% !important;
+    }
+
+    .card h2 {
+        width: 100% !important;
+    }
+
+    .card p {
+        width: 140% !important;
+    }
+
+    .escolaagil img {
+        width: 60% !important;
+    }
+
+    .busquefilho h1 {
+        left: 240px !important;
+        font-size: 2rem !important;
+    }
+}
+
+@media only screen and (min-width: 1100px){
+    .conforto{
+        width: 450px !important;
+    }
+
+    .conforto p{
+        margin-top: 50px;
+        width: 450px;
+    }
+
+}
+@media only screen and (max-width: 1063px) {
+    .hero img {
+        width: 300px !important;
+    }
+
+
+
+}
+
+
+@media only screen and (max-width: 1016px) {
+
+    .hero img {
+        width: 270px !important;
+    }
+
+    footer img {
+        width: 30% !important;
+    }
+}
+
+@media only screen and (max-width: 981px){
+    .hero h1{
+        width: 500px !important;
+    }
+    .hero img{
+        width: 350px !important;
+        margin-left: 200px !important;
+    }
+    .conforto h1{
+        font-size: 1.5rem !important;
+
+    }
+
+
+    .conheca img{
+        width: 250px !important;
+    }
+
+    .dados p{
+        font-size: 0.9rem !important;
+    }
+
+    .dados h1{
+        font-size: 1.5rem !important;
+    }
+
+    .card img{
+        width: 50px !important;
+    }
+    .card h2{
+        font-size: 1.3rem !important;
+    }
+    .card p{
+        font-size: 0.9rem !important;
+    }
+
+    .form h1{
+        font-size: 1.5rem !important;
+    }
+
+    .form p{
+        font-size: 0.9rem !important;
+    }
+
+    form input{
+        height: 10px !important;
+    }
+
+    footer img{
+        width: 20% !important;
+    }
+    footer p{
+        font-size: 0.9rem !important;
+    }
+}
+
+
+@media only screen and (max-width: 890px){
+ header button{
+    display: none;
+ }
+
+ .hero {
+    display: flex;
+    flex-direction: column !important;
+ }
+
+ .hero h1{
+    text-align: center;
+ }
+ .acao{
+    display: flex;
+    flex-direction: column;
+    justify-content: center ;
+    width: 100% !important;
+    align-items: center;
+    text-align: center ;
+    margin-top: 300px !important;
+ }
+
+ .hero img{
+    margin: 0 !important;
+    width: 60% !important;
+    margin-top: 100px !important;
+ }
+
+ .conheca{
+    margin-top: 300px !important;
+ }
+
+ 
+}
+
+@media only screen and (max-width: 810px){
+    .cards{
+        flex-direction: column !important;
+        align-items: center ;
+    }
+    .card{
+        width: 45% !important;
+        margin-top: 50px;
+    }
+
+   
+}
+
+@media only screen and (max-width: 734px ){
+    .dados p{
+        width: 600px !important;
+    }
+
+    .busquefilho h1{
+        left: 90px !important;
+    }
+}
+
+@media only screen and (max-width: 700px){
+    .conheca{
+        flex-direction: column !important; 
+        text-align: center  ;
+    }
+    .conheca img{
+        margin-top: 30px !important;
+    }
+    .conforto h1{
+        font-size: 2.5rem !important;
+        text-align: center  ;
+    }
+    .conforto p{
+        margin-top: 30px !important;
+
+
+
+    }
+
+    .acao h1{
+        font-size: 2.5rem !important;
+    }
+    .dados{
+        margin-top: 100px !important;
+    }
+
+    .dados p{
+        margin-top: 50px !important;
+    }
+    .dados h1{
+        font-size: 2.5rem !important;
+    }
+
+        .busquefilho{
+            width: 100% !important;
+
+
+        }
+        .busquefilho img{
+            width: 100% !important;
+        }
+}
+
+@media only screen and (max-width: 637px){
+    .dados p{
+        width: 500px !important ;
+    }
+}
+
+@media only screen and (max-width: 568px){
+    .conforto{
+        width: 90% !important;
+    }
+}
+
+@media only screen and (max-width: 530px){
+    .dados h1{
+        width: 400px !important;
+    }
+
+    .dados p{
+        width: 80% !important;
+    }
+
+
+    .card{
+        width: 70% !important;
+    }
+    }
+
+    @media only screen and (max-width: 520px){
+        .form p{
+            width: 80% !important;
+        }
+        .acao h1{
+            font-size: 2rem !important;
+        }
+        .conforto h1{
+            font-size: 2rem !important;
+        }
+
+        .busquefilho h1{
+            font-size: 2rem !important;
+            left: 20px !important;
+        }
+    }
+
+    @media only screen and (max-width: 460px){
+        .acao h1{
+            width: 400px !important;
+        }
+    }
+
+    @media only screen and (max-width: 432px){
+        .busquefilho h1{
+            left: 1px !important;
+        }
+    }
